@@ -1,0 +1,24 @@
+Goal of this game is to gain 20 points as soon as possible. 
+
+You start with 3 health and in case of losing all 3 of them, the game ends.
+
+
+Balls by Colour:
+
+
+Green: +1 point
+
+Pink: +2 points
+
+Gold: -1 point (Yeah, gold isn't worthy always)
+
+Red: -1 health
+
+Black: Either increases your player's speed or decreases it
+
+
+
+
+Gameplay:
+
+Right-Left arrow buttons or A-D buttons to move your character.
